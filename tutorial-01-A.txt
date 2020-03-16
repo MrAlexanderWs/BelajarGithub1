@@ -1,1 +1,3 @@
-"ini ditambahkan di file tutorial-01-A.txt di folder B" 
+
+"ini ditambahkan di file tutorial-01-A.txt di folder B" atau "ini ditambahkan di file tutorial-01-A.txt di folder A" 
+
